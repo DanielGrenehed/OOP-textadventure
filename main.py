@@ -1,7 +1,7 @@
 from game import Game
 
 if __name__ == "__main__":
-    # kör kod här
+    ''' This is where the actual game is started, and where the game loop resides '''
     game = Game()
     game.setup()
 
