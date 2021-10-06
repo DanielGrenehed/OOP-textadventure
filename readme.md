@@ -6,3 +6,6 @@ In this folder, run
 ```python3 main.py```
 In your terminal of choice.
 
+## Getting latest
+Latest version of this project can be found at:
+[github.com](https://github.com/DanielGrenehed/OOP-textadventure)
